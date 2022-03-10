@@ -20,7 +20,7 @@
 - 📱 React | Android
 - 🖱️ Bash | Jenkins | Cypress | Jekyll | Git
 
-## 🤝🏻 Connect with Me
+## 🤝 Connect with Me
 <div align="center">
   <a href=" www.linkedin.com/in/alex-jeton-b69469173" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </div>
