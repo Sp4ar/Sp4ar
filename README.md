@@ -14,11 +14,11 @@
 
 ## 🛠 Tech Stack
 - 💻 java | Python | PHP | C++
-- 🌐 VueJS | HTML | CSS | JavaScript | Babel | Angular
+- 🌐 VueJS | JavaScript | TypeScript
 - 🛢 MySQL | MongoDB | Redis
 - 🔧 NodeJS | Spring | graphQL
 - 📱 React | Android
-- 🖱️ Bash | Jenkins | Cypress | Jekyll | Git
+- 🖱️ Bash | Jenkins | Graphana | Git
 
 ## 🤝 Connect with Me
 <div align="center">
