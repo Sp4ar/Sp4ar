@@ -8,17 +8,17 @@
 - 🏦 I'm working for Crédit Mutuel Arkéa where i make financial applications using spring boot and mysql.
 - 🎓 I'm studying Computer Science at EFREI Paris.
 - 🤔 I use daily .java, .py, .sql
-- 🌱 I’m currently learning docker and kubernetes
+- 🌱 I’m currently learning kubernetes
 - 😄 Pronouns : He/Him
 <!--- ⚡ Fun fact : -->
 
 ## 🛠 Tech Stack
-- 💻 java | Python | PHP | C++
+- 💻 java | Python | C++
 - 🌐 VueJS | JavaScript | TypeScript
-- 🛢 MySQL | MongoDB | Redis
-- 🔧 NodeJS | Spring | graphQL
+- 🛢 MySQL | MongoDB | Redis | graphQL
+- 🔧 NodeJS | Spring 
 - 📱 React | Android
-- 🖱️ Bash | Jenkins | Graphana | Git
+- 🖱️ Bash | Jenkins | Graphana | Git | Docker
 
 ## 🤝 Connect with Me
 <div align="center">
